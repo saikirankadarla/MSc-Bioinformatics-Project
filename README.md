@@ -12,4 +12,5 @@ Methodology:-
 •	9.Docking of proteins with designed specific ligands using PyRx software.
 
 Future work:- The constructed network of proteins involved in interactions can be utilized to identify common molecular pathways using Reactome.The common protein interacted with tau (MAPT), alpha-synuclein (SNCA), and amyloid-beta (APP) can be utilized for designing drug targets using Biovia Draw 2025 software and Docked with ligands using PyRx Software.
+![image](https://github.com/user-attachments/assets/efa97541-6341-43ab-8f84-d65ae1b4e302)
 
