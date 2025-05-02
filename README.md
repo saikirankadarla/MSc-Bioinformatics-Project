@@ -1,6 +1,8 @@
 # MSc-Bioinformatics-Project
 Title:- Unlocking triadic nexus of interrelationship between tau,amyloid beta and alpha-synuclein in Neurodegenerative Disorders to Identify Novel Drug Targets through structure based drug design
-#Methodology:-
+
+   Methodology:-
+
 •	1.Gathering the data set of proteins from BioGRID 
 
 •	2.Construction of protein-protein interactions using cytoscape
