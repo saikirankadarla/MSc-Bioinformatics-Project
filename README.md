@@ -25,6 +25,16 @@
 
 # RESULTS:-
 ![image](https://github.com/user-attachments/assets/b762b3ba-8500-406d-a27d-9949c0302450)
+
 Fig1:-Constructed protein-protein interactions of alpha-synuclein in cytoscape
+
+![image](https://github.com/user-attachments/assets/8b1f5c22-4c3e-4e28-a65e-0088fae19771)
+
+Fig2:-Constructed protein-protein interactions of tau in cytoscape
+
+![image](https://github.com/user-attachments/assets/4717dae9-996e-495d-8120-c31fab33a2c4)
+ 
+ Fig3:-Constructed protein-protein interactions of amyloid beta in cytoscape
+
 
 Future work:-The constructed network of proteins involved in interactions can be utilized to identify common molecular pathways using Reactome.The common protein interacted with tau (MAPT), alpha-synuclein (SNCA), and amyloid-beta (APP) can be utilized for designing drug targets using Biovia Draw 2025 software and Docked with ligands using PyRx Software.
