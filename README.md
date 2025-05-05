@@ -53,4 +53,11 @@ Fig 6 :-Integrated network of amyloid beta with genemania
 Fig 7:-Common protein involved with interactions of tau(MAPT),alpha-synuclein(SNCA) and Amyloid beta(APP), identified with string database by inputing interactors of proteins
 
 
+CDK5 protein identified as common protein involved with MAPT,APP,SNCA protein interactions.In next step with CDK5 Protein is docked with all 3 proteins using Cluspro.
+
+![tau](https://github.com/user-attachments/assets/3841ccd1-10a4-4bda-8649-66266e8c7b64)
+
+Fig 8:- 
+
+
 Future work:-The constructed network of proteins involved in interactions can be utilized to identify common molecular pathways using Reactome.The common protein interacted with tau (MAPT), alpha-synuclein (SNCA), and amyloid-beta (APP) can be utilized for designing drug targets using Biovia Draw 2025 software and Docked with ligands using PyRx Software.
