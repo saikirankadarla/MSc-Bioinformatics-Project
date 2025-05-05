@@ -1,5 +1,6 @@
 # MSc-Bioinformatics-Project
-Title:- Unlocking triadic nexus of interrelationship between tau,amyloid beta and alpha-synuclein in Neurodegenerative Disorders to Identify Novel Drug Targets through structure based drug design
+
+# Title:- Unlocking triadic nexus of interrelationship between tau,amyloid beta and alpha-synuclein in Neurodegenerative Disorders to Identify Novel Drug Targets through structure based drug design
 
 # Methodology:-
 
@@ -23,5 +24,7 @@ Title:- Unlocking triadic nexus of interrelationship between tau,amyloid beta an
 
 
 # RESULTS:-
+![image](https://github.com/user-attachments/assets/b762b3ba-8500-406d-a27d-9949c0302450)
+Fig1:-Constructed protein-protein interactions of alpha-synuclein in cytoscape
 
 Future work:-The constructed network of proteins involved in interactions can be utilized to identify common molecular pathways using Reactome.The common protein interacted with tau (MAPT), alpha-synuclein (SNCA), and amyloid-beta (APP) can be utilized for designing drug targets using Biovia Draw 2025 software and Docked with ligands using PyRx Software.
