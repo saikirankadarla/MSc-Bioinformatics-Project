@@ -23,7 +23,8 @@
 •	9.Docking of proteins with designed specific ligands using PyRx software.
 
 
-# RESULTS:-
+# Results:-
+
 ![image](https://github.com/user-attachments/assets/b762b3ba-8500-406d-a27d-9949c0302450)
 
 Fig1:-Constructed protein-protein interactions of alpha-synuclein in cytoscape
@@ -53,11 +54,22 @@ Fig 6 :-Integrated network of amyloid beta with genemania
 Fig 7:-Common protein involved with interactions of tau(MAPT),alpha-synuclein(SNCA) and Amyloid beta(APP), identified with string database by inputing interactors of proteins
 
 
-CDK5 protein identified as common protein involved with MAPT,APP,SNCA protein interactions.In next step with CDK5 Protein is docked with all 3 proteins using Cluspro.
+CDK5 protein identified as common protein involved with MAPT,APP,SNCA protein interactions.In next step the sequence of all proteins taken from Uniprot and structures are predicted with Alphafold-3 and with the structures of protein ,CDK5 Protein is docked with all SNCA,MAPT,APP proteins using Cluspro.
+
 
 ![tau](https://github.com/user-attachments/assets/3841ccd1-10a4-4bda-8649-66266e8c7b64)
 
-Fig 8:- 
+Fig 8:-Docked structures of CDK with tau protein of top 5 models
+
+![amy1](https://github.com/user-attachments/assets/223974e6-5418-4b25-8f5e-920688830d28)
+
+Fig 9:-Docked structures of CDK with amyloid beta protein of top 5 models
+
+![snca](https://github.com/user-attachments/assets/a813017c-af79-4473-b95a-188c86d0254a)
+
+Fig 10:-Docked structures of CDK with alpha-synuclein protein of top 5 models
 
 
-Future work:-The constructed network of proteins involved in interactions can be utilized to identify common molecular pathways using Reactome.The common protein interacted with tau (MAPT), alpha-synuclein (SNCA), and amyloid-beta (APP) can be utilized for designing drug targets using Biovia Draw 2025 software and Docked with ligands using PyRx Software.
+
+# Future work:-
+The constructed network of proteins involved in interactions can be utilized to identify common molecular pathways using Reactome.The common protein interacted with tau (MAPT), alpha-synuclein (SNCA), and amyloid-beta (APP) can be utilized for designing drug targets using Biovia Draw 2025 software and Docked with ligands using PyRx Software.
