@@ -36,22 +36,24 @@ Fig2:-Constructed protein-protein interactions of tau in cytoscape
 ![image](https://github.com/user-attachments/assets/4717dae9-996e-495d-8120-c31fab33a2c4)
  
  Fig3:-Constructed protein-protein interactions of amyloid beta in cytoscape
+
+ The below constructed networks used with Genemania
  
 ![image](https://github.com/user-attachments/assets/e3328467-6383-4cf4-8c0f-03b2b7e7aa8d)
 
-Fig4:-Integrated network of alpha-synuclein with genemania
+Fig4:-Integrated network of alpha-synuclein 
 
 ![image](https://github.com/user-attachments/assets/fa522200-5caf-47f2-b069-fbaedeef63a4)
 
-Fig 5:-Integrated network of tau with genemania
+Fig5:-Integrated network of tau 
 
 ![image](https://github.com/user-attachments/assets/fcb9d8b1-ab2d-42c3-8be4-bb47a538bcd9)
 
-Fig 6 :-Integrated network of amyloid beta with genemania
+Fig6 :-Integrated network of amyloid beta
 
 ![image](https://github.com/user-attachments/assets/ad4953d6-a58b-4fd4-8e3f-a59b7d10091b)
 
-Fig 7:-Common protein involved with interactions of tau(MAPT),alpha-synuclein(SNCA) and Amyloid beta(APP), identified with string database by inputing interactors of proteins
+Fig7:-Common protein involved with interactions of tau(MAPT),alpha-synuclein(SNCA) and Amyloid beta(APP), identified with string database by inputing interactors of proteins
 
 
 CDK5 protein identified as common protein involved with MAPT,APP,SNCA protein interactions.In next step the sequence of all proteins taken from Uniprot and structures are predicted with Alphafold-3 and with the structures of protein ,CDK5 Protein is docked with all SNCA,MAPT,APP proteins using Cluspro.
@@ -59,15 +61,15 @@ CDK5 protein identified as common protein involved with MAPT,APP,SNCA protein in
 
 ![tau](https://github.com/user-attachments/assets/3841ccd1-10a4-4bda-8649-66266e8c7b64)
 
-Fig 8:-Docked structures of CDK with tau protein of top 5 models
+Fig 8:-Docked structures of CDK5 with tau protein of top 5 models
 
 ![amy1](https://github.com/user-attachments/assets/223974e6-5418-4b25-8f5e-920688830d28)
 
-Fig 9:-Docked structures of CDK with amyloid beta protein of top 5 models
+Fig 9:-Docked structures of CDK5 with amyloid beta protein of top 5 models
 
 ![snca](https://github.com/user-attachments/assets/a813017c-af79-4473-b95a-188c86d0254a)
 
-Fig 10:-Docked structures of CDK with alpha-synuclein protein of top 5 models
+Fig 10:-Docked structures of CDK5 with alpha-synuclein protein of top 5 models
 
 
 
